@@ -1,5 +1,5 @@
 # Watermark-Bot
-A Telegram Video Watermark Adder Bot by [@Try24x7](https://github.com/AbirHasan2005)
+A Telegram Video Watermark Adder Bot by [@Try24x7](https://github.com/kr812/Watermark-Bot)
 
 ## Features:
 - Save Custom Watermark Image.
