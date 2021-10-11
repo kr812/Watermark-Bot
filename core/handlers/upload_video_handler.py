@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Try24x7
 
 import time
 from humanfriendly import format_timespan
