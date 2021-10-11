@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Try24x7
 
 # Don't Forget That I Made This!
 # So Give Credits!
